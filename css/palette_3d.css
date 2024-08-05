@@ -1,0 +1,21 @@
+:root {
+
+  /* основные цветовые акценты сайта - оттенки оранжевого цвета */
+  --color-base-blue: #3F2AFF;
+  /* базовые цвета - фон, текс и др. */
+  --color-white: #FFF;
+  --color-light-grey: #EDF0F9;
+  --color-medium-grey: #85859B;
+  --color-grey: #666;
+  --color-dark-blue-1: #2E2B44;
+  --color-dark-blue-2: #212133;
+  --color-black: #000;
+  /* градиент */
+  --color-gradient-hero: #555681 0%, #212133 100%;
+  /* вспомогательные цвета */
+  --color-animation-sand: #F6C055;
+  --color-animation-dark-blue: #212133;
+  --color-animation-blue: #1188E4;
+  --color-animation-green: #6DA71D;
+
+}
